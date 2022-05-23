@@ -1,7 +1,7 @@
 package com.epam;
 
 public class Table {
-    int z;
+    int t = 9;
     int c;
-    int x;
+    int f;
 }
