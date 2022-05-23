@@ -2,6 +2,7 @@ package com.epam;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        int n = 100;
+        System.out.println("hello " + n);
     }
 }
